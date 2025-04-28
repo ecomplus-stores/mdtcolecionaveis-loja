@@ -6,10 +6,15 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "https://www.geralgeek.com.br/loja/mdt-colecionaveis/10339",
+        "text": "Geral Geek"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -23,9 +28,7 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
-      "width": 150,
-      "height": 62
+      "alt": "Secure connection"
     }
   ],
   "payment_methods": {

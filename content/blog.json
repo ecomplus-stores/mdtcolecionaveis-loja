@@ -1,18 +1,18 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "MDT",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "breadcrumbs",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "page-title"
     },
     {
       "type": "blog",
-      "enabled": true
+      "enabled": false
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "anime/",
+    "jogos/",
+    "personagens-de-filmes/",
+    "disney/",
+    "rock",
+    "dc/",
+    "marvel/",
+    "star-wars/",
+    "the-office/",
+    "senhor-dos-aneis/",
+    "stranger-things/"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
-  "socials": true
+  "socials": false
 }

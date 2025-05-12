@@ -1,6 +1,6 @@
 {
-  "meta_title": "Quantum Mechanix qmx",
-  "meta_description": "Quantum Mechanix qmx",
+  "meta_title": "Weta",
+  "meta_description": "Weta",
   "sections": [
     {
       "type": "banner-slider",
@@ -30,6 +30,16 @@
       "link": "Quantum Mechanix - QMx",
       "limit": 12,
       "collection_id": "68083c47ef51eb1c90d9fd92:brands:QMx:/marca/qmx",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68083c49ef51eb1c90d9fd98:brands:Weta:/marca/weta",
+      "title": "Weta",
+      "link": "Weta",
       "sort": "views"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "meta_title": "Marcas",
-  "meta_description": "Marcas",
+  "meta_title": "Quantum Mechanix qmx",
+  "meta_description": "Quantum Mechanix qmx",
   "sections": [
     {
       "type": "banner-slider",
@@ -22,31 +22,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "page": 3,
+      "title": "Quantum Mechanix - QMx",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "views",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "Quantum Mechanix - QMx",
       "limit": 12,
-      "page": 3
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_ids": [
-        "68083c47ef51eb1c90d9fd92:brands:QMx:/marca/qmx",
-        "68083c46ef51eb1c90d9fd90:brands:Funko:/marca/pop-funko",
-        "68083c49ef51eb1c90d9fd98:brands:Weta:/marca/weta",
-        "68083c57ef51eb1c90d9fdbd:brands:Mattel:/marca/mattel",
-        "68083c40ef51eb1c90d9fd81:brands:Diamond Select:/marca/diamond-select",
-        "68083c44ef51eb1c90d9fd8b:brands:Kotobukiya:/marca/kotobukiya",
-        "68083c43ef51eb1c90d9fd87:brands:Hot Toys:/marca/hot-toys"
-      ],
-      "sort": "views",
-      "shelfs_title": "Marcas"
+      "collection_id": "68083c47ef51eb1c90d9fd92:brands:QMx:/marca/qmx",
+      "sort": "views"
     },
     {
       "type": "page-title",

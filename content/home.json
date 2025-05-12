@@ -1,6 +1,6 @@
 {
-  "meta_title": "Weta",
-  "meta_description": "Weta",
+  "meta_title": "Funko",
+  "meta_description": "Funko",
   "sections": [
     {
       "type": "banner-slider",
@@ -41,6 +41,15 @@
       "title": "Weta",
       "link": "Weta",
       "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68083c46ef51eb1c90d9fd90:brands:Funko:/marca/pop-funko",
+      "title": "Funko",
+      "link": "Funko"
     },
     {
       "type": "page-title",

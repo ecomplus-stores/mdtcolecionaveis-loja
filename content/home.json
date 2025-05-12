@@ -1,6 +1,6 @@
 {
-  "meta_title": "Funko",
-  "meta_description": "Funko",
+  "meta_title": "Stranger Things",
+  "meta_description": "Stranger Things",
   "sections": [
     {
       "type": "banner-slider",
@@ -20,6 +20,16 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68083c77ef51eb1c90d9fe45:categories:Stranger Things:/stranger-things/",
+      "sort": "views",
+      "title": "Stranger Things",
+      "link": "Stranger Things"
     },
     {
       "page": 3,

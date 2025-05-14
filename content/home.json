@@ -27,7 +27,7 @@
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "Stranger Things",
+      "link": "https://mdtcolecionaveis.com.br/search?term=Stranger+Things",
       "limit": 12,
       "collection_id": "68083c77ef51eb1c90d9fe45:categories:Stranger Things:/stranger-things/",
       "sort": "views"
@@ -38,10 +38,10 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "Quantum Mechanix - QMx",
+      "link": "https://mdtcolecionaveis.com.br/marca/qmx",
       "limit": 12,
       "collection_id": "68083c47ef51eb1c90d9fd92:brands:QMx:/marca/qmx",
-      "sort": "news"
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
@@ -50,7 +50,7 @@
       "page": 1,
       "collection_id": "68083c49ef51eb1c90d9fd98:brands:Weta:/marca/weta",
       "title": "Weta",
-      "link": "Weta",
+      "link": "https://mdtcolecionaveis.com.br/search?term=weta",
       "sort": "views"
     },
     {
@@ -60,7 +60,7 @@
       "page": 1,
       "collection_id": "68083c46ef51eb1c90d9fd90:brands:Funko:/marca/pop-funko",
       "title": "Funko",
-      "link": "Funko"
+      "link": "https://mdtcolecionaveis.com.br/marca/pop-funko"
     },
     {
       "type": "page-title",

@@ -1,16 +1,12 @@
 {
   "sort_categories": [
     "anime/",
-    "jogos/",
-    "personagens-de-filmes/",
-    "disney/",
-    "rock",
     "dc/",
+    "disney/",
+    "personagens-de-filmes/",
+    "jogos/",
     "marvel/",
-    "star-wars/",
-    "the-office/",
-    "senhor-dos-aneis/",
-    "stranger-things/"
+    "rock"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,

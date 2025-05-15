@@ -29,7 +29,8 @@
       "/rock?Rock",
       "/personagens-de-filmes/?Filmes/Séries",
       "/anime/?Animes",
-      "/jogos/?Jogos"
+      "/jogos/?Jogos",
+      "/disney/?Disney"
     ],
     "random": 6,
     "full_width": true

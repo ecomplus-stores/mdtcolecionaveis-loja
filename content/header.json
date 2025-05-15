@@ -22,15 +22,14 @@
   "categories_list": {
     "featured": [
       "/marca/pop-funko?Funko",
+      "/marca/weta?Weta",
       "/marca/qmx?QMx",
-      "/dc/?DC",
-      "/marvel/?Marvel",
-      "/star-wars/?Star Wars",
-      "/rock?Rock",
-      "/personagens-de-filmes/?Filmes/Séries",
-      "/anime/?Animes",
-      "/jogos/?Jogos",
-      "/disney/?Disney"
+      "/marca/kotobukiya?Kotobukiya",
+      "/marca/mattel?Mattel",
+      "/marca/hasbro?Hasbro",
+      "/marca/diamond-select?Diamond Select",
+      "/marca/bandai?Bandai",
+      "/marca/banpresto?Banpresto"
     ],
     "random": 6,
     "full_width": true

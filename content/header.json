@@ -1,24 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": "20% de desconto em todo site. Cupom: BLACKFRIDAYMDT",
-    "link": "",
-    "background": "#3f304d",
-    "color": "#ffffff"
-  },
-  "contacts_stripe": {
-    "pages": [
-      {
-        "title": "LOJA APENAS VIRTUAL",
-        "link": ""
-      },
-      {
-        "title": "Horário de Atendimento de 09h às 22h",
-        "link": ""
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [
       "/marca/pop-funko?Funko",
@@ -34,9 +14,30 @@
     "random": 6,
     "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true,
+  "menu_all_departments": true,
+  "marketing_stripe": {
+    "text": "20% de desconto em todo site. Cupom: BLACKFRIDAYMDT",
+    "link": "",
+    "background": "#3f304d",
+    "color": "#ffffff"
+  },
   "alphabetical_order_submenu": true,
+  "popup": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/2e861bd5b5258b40a1c73fdab/8a19e690081b0a8ca26515aff.js\");</script>",
+  "search_input": true,
+  "desktop_megamenu": false,
   "full_width_submenu": false,
-  "menu_all_departments": true
+  "contacts_stripe": {
+    "pages": [
+      {
+        "title": "LOJA APENAS VIRTUAL",
+        "link": ""
+      },
+      {
+        "title": "Horário de Atendimento de 09h às 22h",
+        "link": ""
+      }
+    ],
+    "phone_wpp": true,
+    "socials": true
+  }
 }

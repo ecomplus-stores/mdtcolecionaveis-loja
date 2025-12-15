@@ -16,7 +16,7 @@
   },
   "menu_all_departments": true,
   "marketing_stripe": {
-    "text": "5% de desconto para pagamentos por Pix",
+    "text": "5% de desconto para pagamentos por Depósito",
     "link": "",
     "background": "#3f304d",
     "color": "#ffffff"

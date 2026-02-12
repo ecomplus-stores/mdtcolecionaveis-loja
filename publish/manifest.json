@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b24834f281cc56453829aed29193e71f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.38af9cdfbc5054433a97a2b0c3cf0b4c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bf81415ff25f1a4f4e51ef99c462c50c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d75c5a4c89bb7fcb1715745975637b66.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.eeaf3c3266dec6ca2c34944323e03995.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Máquina Do Tempo Colecionáveis",
+  "short_name": "MDT Colecionáveis",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja virtual de artigos colecionáveis, action figures, estátuas, Funko Pops, bonecos e muito mais!\n\n“Estes produtos não são brinquedos. Produtos destinados a colecionadores com mais de 14 (quatorze) anos” (Portaria INMETRO nº 563/16)",
+  "background_color": "#e8ddea",
+  "theme_color": "#3f304d"
+}

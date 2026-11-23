@@ -48,9 +48,9 @@
       "headless": false,
       "type": "collection-shelf",
       "link": "https://mdtcolecionaveis.com.br/marca/qmx",
-      "limit": 12,
+      "limit": 8,
       "collection_id": "68083c47ef51eb1c90d9fd92:brands:QMx:/marca/qmx",
-      "sort": "highest_price"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
